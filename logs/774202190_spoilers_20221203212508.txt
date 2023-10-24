@@ -1,7 +1,0 @@
-Marisa Nucci -> Valentina Del Moro
-Valentina Del Moro -> Noemi
-Valentina -> Valentina Frascolla
-Valentina Frascolla -> Marisa Nucci
-Noemi -> Valentina
-
-
