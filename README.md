@@ -8,3 +8,4 @@ Secret Santa Telegram Bot is a Python-based Telegram bot that allows users to or
 - **`/start`:** Start the Secret Santa setup process.
 - **`/cancel`:** Stop the ongoing process.
 - **`/info`:** Get information and help about the bot and its commands.
+- **`/info(admin)`:** Get stats of groups and processes.
