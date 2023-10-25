@@ -10,6 +10,10 @@ Secret Santa Telegram Bot is a Python-based Telegram bot that allows users to or
 - **`/info`:** Get information and help about the bot and its commands.
 - **`/info(admin)`:** Get stats of groups and processes.
 
+## Language
+- **Italian**
+- (English in the future)
+
 ## Prerequisites
 - **Python v3.9**
 - **python-telegram-bot v20.0**
