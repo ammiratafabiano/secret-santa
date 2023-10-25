@@ -11,6 +11,5 @@ Secret Santa Telegram Bot is a Python-based Telegram bot that allows users to or
 - **`/info(admin)`:** Get stats of groups and processes.
 
 ## Prerequisites
-
 - **Python v3.9**
 - **python-telegram-bot v20.0**
