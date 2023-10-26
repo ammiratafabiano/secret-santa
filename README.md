@@ -17,3 +17,7 @@ Secret Santa Telegram Bot is a Python-based Telegram bot that allows users to or
 ## Prerequisites
 - **Python v3.9**
 - **python-telegram-bot v20.0**
+
+## Screenshots
+
+<img src="https://github.com/ammiratafabiano/secret-santa/assets/36988217/7c721c20-0717-4002-8331-d1c1e714139b" alt="drawing" width="200"/>
